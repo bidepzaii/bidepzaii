@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bidepzaii
-- 👀 I’m interested in Business Analytics, Python, SQL, R, and Excel
+- 👀 I’m interested in Business Data Analytics, Python, SQL, Tableau, and Excel
 - 🌱 I’m currently learning Business Analytics and Finance at the University of Sydney
 - 💞️ I’m looking to collaborate on Business Intelligence Analyst Python problems
 - 📫 How to reach me: bducminh2607@gmail.com
